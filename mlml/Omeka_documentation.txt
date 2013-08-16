@@ -1,0 +1,30 @@
+******* Omeka documentation ***********
+author: Luke Pederson
+email: lpederson@mlml.calstate.edu
+
+--- Navigation links ('Items','collections')…
+/omeka/application/views/functions.php
+I commented out 'Items' and 'Collection' from being pushed into the 'navArray' variable
+
+--- Exhibit Sections
+/exhibitbuilder/views/public/exhibits/summary.php
+Commented out the 'Sections' div
+
+--- Exhibit 'Profile' vs 'Description' DB entry
+When the ExhibitBuilder plugin installs it adds data to Omeka's DB.
+I added another section, 'Profile', to the DB install
+/exhibitbuilder/functions.php
+
+--- Exhibit 'Profile' vs 'Description' Display
+/exhibitbuilder/views/public/exhibits/summary.php
+added a div that references 'profile' rather than 'description'
+
+--- DspaceScraperPlugin
+You can check the 'plugin.php' file for the code.
+Currently, the function gets called in:
+/omeka/application/views/scripts/items/item-metadata.php
+
+--- DspaceRecentItemsPlugin
+Check plugin.php
+Currently called in:
+/exhibitbuilder/views/public/exhibits/summary.php
