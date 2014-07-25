@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/iascraper/csv
+END
+bad_items.csv
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/iascraper/csv/bad_items.csv
+END
+blacklist.csv
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/iascraper/csv/blacklist.csv
+END
+bulk.csv
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/iascraper/csv/bulk.csv
+END
+downloaded.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/iascraper/csv/downloaded.csv
+END

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<IMEData>
+<instructor>Oleg Yakimenko</instructor>
+<keywords>simulink, models, model, mathematical</keywords>
+<metadataCompleted>Y</metadataCompleted>
+<status>completed</status>
+<interactionTypes>sim,tut,drag</interactionTypes>
+<instructionalDesigner>Ernest Koh</instructionalDesigner>
+<copyright/>
+<discard>N</discard>
+<date>8/10/2005</date>
+<mimeTypes>swf,html</mimeTypes>
+<url>  /dl/IME/AE2440_Oleg_Yakimenko/simulink/simulink.html</url>
+<copyrightYN>N</copyrightYN>
+<course>AE2440</course>
+<title>Developing Simulink Models</title>
+<school>GSEAS</school>
+<developer>Philip McCullick</developer>
+<courseTitle>Introduction to Digital Computation</courseTitle>
+<description>&lt;p&gt;This interactive tutorial reviews how the mathematical models of dynamic systems are developed, and how they are programmed and run in the Simulink environment.&lt;/p&gt;&lt;p&gt;The interactions in this tutorial include matching exercises, and working in a simulated Simulink environment.&lt;/p&gt;</description>
+<filename>ae2440_simulink</filename>
+<rating>5</rating>
+<publish>Y</publish>
+</IMEData>

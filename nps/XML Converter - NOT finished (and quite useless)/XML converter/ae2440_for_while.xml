@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<IMEData>
+<instructor>Oleg Yakimenko</instructor>
+<keywords>MATLAB, for loop, while loop</keywords>
+<metadataCompleted>Y</metadataCompleted>
+<status>completed</status>
+<interactionTypes>sim,tut,quiz</interactionTypes>
+<instructionalDesigner>Ernest Koh</instructionalDesigner>
+<copyright/>
+<discard>N</discard>
+<date>8/10/2005</date>
+<mimeTypes>swf,html</mimeTypes>
+<url>  /dl/IME/AE2440_Oleg_Yakimenko/forWhile/forWhile.html</url>
+<copyrightYN>N</copyrightYN>
+<course>AE2440</course>
+<title>MATLAB: For and While Loops</title>
+<school>GSEAS</school>
+<developer>Philip McCullick</developer>
+<courseTitle>Introduction to Digital Computation</courseTitle>
+<description>&lt;p&gt;This interactive tutorial covers the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;For loop&lt;/li&gt;&lt;li&gt;While loop&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Step-by-step explanations are enhanced by sequenced illustrations with learner controlled pacing. The interactions in this tutorial involve students entering MATLAB commands in a simulated MATLAB environment, and observing the outputs when the statements are executed. Self-check quizzes are used to help students evaluate their understanding.&lt;/p&gt;</description>
+<filename>ae2440_for_while</filename>
+<rating>4</rating>
+<publish>Y</publish>
+</IMEData>
